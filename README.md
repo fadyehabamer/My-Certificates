@@ -24,3 +24,8 @@
         - Arrays
         - IF conditions
         - Tuples
+
+- Innovo Egypt
+  - Entrepreneurship
+  - Business modelling
+  
