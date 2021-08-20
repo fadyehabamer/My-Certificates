@@ -36,6 +36,7 @@
   
 - UX Design Fundamentals
   - ITI
+  <hr>
 
 - Bamboo Geeks Training
     - How to build your CV ?
