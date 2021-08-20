@@ -32,3 +32,11 @@
   
 - UX Design Fundamentals
   - ITI
+
+- Bamboo Geeks Training
+    - How to build your CV ?
+    - Agile , Scrum Methedologies
+    - Team Work Experience 
+    - Product Design 
+    - UI & UX Principals
+    - ProtoTyping
