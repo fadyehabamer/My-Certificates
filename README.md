@@ -31,7 +31,8 @@
 - Innovo Egypt
   - Entrepreneurship
   - Business modelling
-  
+    <hr>
+
   
 - UX Design Fundamentals
   - ITI
