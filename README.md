@@ -29,3 +29,6 @@
   - Entrepreneurship
   - Business modelling
   
+  
+- UX Design Fundamentals
+  - ITI
