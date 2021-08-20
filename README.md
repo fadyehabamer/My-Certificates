@@ -6,11 +6,13 @@
   <hr>
 - Front End Web Development
   - Solo Learn
-    <hr>
+  
+<hr>
 
 - College Certificates
   - Computer Graphics ( 2nd Year )
-    <hr>
+
+<hr>
 
 - One Millon Arab Coders 
   - Full stack web Development
@@ -26,17 +28,20 @@
         - Arrays
         - IF conditions
         - Tuples
-  <hr>
+
+<hr>
 
 - Innovo Egypt
   - Entrepreneurship
   - Business modelling
-    <hr>
+
+<hr>
 
   
 - UX Design Fundamentals
   - ITI
-  <hr>
+
+<hr>
 
 - Bamboo Geeks Training
     - How to build your CV ?
