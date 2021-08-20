@@ -26,6 +26,7 @@
         - Arrays
         - IF conditions
         - Tuples
+  <hr>
 
 - Innovo Egypt
   - Entrepreneurship
