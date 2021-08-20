@@ -10,7 +10,8 @@
 
 - College Certificates
   - Computer Graphics ( 2nd Year )
-  
+    <hr>
+
 - One Millon Arab Coders 
   - Full stack web Development
     - Front End
