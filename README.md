@@ -6,7 +6,8 @@
   <hr>
 - Front End Web Development
   - Solo Learn
-  
+    <hr>
+
 - College Certificates
   - Computer Graphics ( 2nd Year )
   
