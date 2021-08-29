@@ -50,3 +50,5 @@
     - Product Design 
     - UI & UX Principals
     - ProtoTyping
+
+<hr>
