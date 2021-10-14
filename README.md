@@ -59,3 +59,6 @@
   - Core Team Member from 2019-present
 
 <hr>
+
+- FrontEnd Web Development 
+
