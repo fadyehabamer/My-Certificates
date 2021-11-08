@@ -60,5 +60,12 @@
 
 <hr>
 
-- FrontEnd Web Development 
+- Creativa Innovation Bootcamp
+   - innovation
+   - ideation
+   - business model canvas
+   - business plan
+   - prototyping
+   - presention skills
+   - teamwork skills
 
