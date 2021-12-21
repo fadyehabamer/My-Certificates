@@ -69,3 +69,11 @@
    - presention skills
    - teamwork skills
 
+<hr>
+
+- Huawei AI Certificate
+  - AI
+  - Machine Learning & Deep Learning
+  - Tensorflow
+  - statistics & probability
+  - python PL
